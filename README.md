@@ -1,4 +1,4 @@
-# 🌟 Taskify
+# 🌟 Taskify with changes
 
 ## 📌 Description
 Taskify is a Notion-like productivity tool that helps users organize tasks, notes, and projects efficiently.
